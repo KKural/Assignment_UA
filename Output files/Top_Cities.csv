@@ -1,0 +1,136 @@
+﻿Network,Metric,Rank,City,Value
+Combined,Betweenness,1,Lido di Ostia,0.031
+Combined,Betweenness,2,Taşköprü,0.03
+Combined,Betweenness,3,Concepción,0.028
+Combined,Betweenness,4,Aydın,0.027
+Combined,Betweenness,5,Buenavista,0.023
+Combined,Closeness,1,El Arahal,0.287
+Combined,Closeness,2,Buenavista,0.225
+Combined,Closeness,3,Giza,0.197
+Combined,Closeness,4,Al Fayyum,0.189
+Combined,Closeness,5,Agrigento,0.161
+Combined,Clustering,1,Redondela,1.0
+Combined,Clustering,2,An Nāşirīyah,0.333
+Combined,Clustering,3,Llefià,0.333
+Combined,Clustering,4,Sürmene,0.2
+Combined,Clustering,5,Cremona,0.167
+Combined,Community,1,Segundo Ensanche,11.0
+Combined,Community,2,Boiro,11.0
+Combined,Community,3,Barbastro,11.0
+Combined,Community,4,Sohag,11.0
+Combined,Community,5,Puerta Bonita,11.0
+Combined,Degree,1,Buenavista,0.121
+Combined,Degree,2,Molfetta,0.081
+Combined,Degree,3,El Arahal,0.074
+Combined,Degree,4,Monza,0.06
+Combined,Degree,5,Giza,0.054
+Combined,Eigenvector,1,El Arahal,0.652
+Combined,Eigenvector,2,Buenavista,0.285
+Combined,Eigenvector,3,Al Fayyum,0.26
+Combined,Eigenvector,4,Giza,0.26
+Combined,Eigenvector,5,Villaquilambre,0.251
+Combined,In_Degree,1,Buenavista,0.107
+Combined,In_Degree,2,El Arahal,0.074
+Combined,In_Degree,3,Molfetta,0.074
+Combined,In_Degree,4,Monza,0.047
+Combined,In_Degree,5,Giza,0.047
+Combined,Out_Degree,1,Sant'Anastasia,0.013
+Combined,Out_Degree,2,Numancia,0.013
+Combined,Out_Degree,3,Lodi,0.013
+Combined,Out_Degree,4,Caserta,0.013
+Combined,Out_Degree,5,Sagunto,0.013
+Combined,PageRank,1,El Arahal,0.092
+Combined,PageRank,2,Buenavista,0.09
+Combined,PageRank,3,Giza,0.048
+Combined,PageRank,4,San Severo,0.044
+Combined,PageRank,5,Al Fayyum,0.044
+Diplomatic,Betweenness,1,Taşköprü,0.012
+Diplomatic,Betweenness,2,Lido di Ostia,0.01
+Diplomatic,Betweenness,3,Concepción,0.01
+Diplomatic,Betweenness,4,Sharm el-Sheikh,0.009
+Diplomatic,Betweenness,5,Aydın,0.009
+Diplomatic,Closeness,1,Buenavista,0.126
+Diplomatic,Closeness,2,Giza,0.107
+Diplomatic,Closeness,3,Taşköprü,0.089
+Diplomatic,Closeness,4,Agrigento,0.081
+Diplomatic,Closeness,5,Lido di Ostia,0.078
+Diplomatic,Clustering,1,An Nāşirīyah,1.0
+Diplomatic,Clustering,2,Villaquilambre,0.1
+Diplomatic,Clustering,3,Bronte,0.067
+Diplomatic,Clustering,4,El Arahal,0.0
+Diplomatic,Clustering,5,Monreale,0.0
+Diplomatic,Community,1,Calafell,13.0
+Diplomatic,Community,2,Villarrobledo,13.0
+Diplomatic,Community,3,Rivas-Vaciamadrid,13.0
+Diplomatic,Community,4,Manduria,13.0
+Diplomatic,Community,5,Sant Carles de la Ràpita,13.0
+Diplomatic,Degree,1,Buenavista,0.081
+Diplomatic,Degree,2,Molfetta,0.06
+Diplomatic,Degree,3,El Arahal,0.054
+Diplomatic,Degree,4,Bronte,0.04
+Diplomatic,Degree,5,Giza,0.034
+Diplomatic,Eigenvector,1,Agrigento,0.334
+Diplomatic,Eigenvector,2,Buenavista,0.334
+Diplomatic,Eigenvector,3,Giza,0.334
+Diplomatic,Eigenvector,4,San Severo,0.334
+Diplomatic,Eigenvector,5,Concepción,0.254
+Diplomatic,In_Degree,1,Buenavista,0.074
+Diplomatic,In_Degree,2,El Arahal,0.054
+Diplomatic,In_Degree,3,Molfetta,0.054
+Diplomatic,In_Degree,4,Bronte,0.034
+Diplomatic,In_Degree,5,Giza,0.027
+Diplomatic,Out_Degree,1,Sant'Anastasia,0.007
+Diplomatic,Out_Degree,2,Imola,0.007
+Diplomatic,Out_Degree,3,Seveso,0.007
+Diplomatic,Out_Degree,4,Concepción,0.007
+Diplomatic,Out_Degree,5,Monreale,0.007
+Diplomatic,PageRank,1,Buenavista,0.075
+Diplomatic,PageRank,2,Giza,0.07
+Diplomatic,PageRank,3,Agrigento,0.06
+Diplomatic,PageRank,4,San Severo,0.057
+Diplomatic,PageRank,5,Taşköprü,0.051
+Trade,Betweenness,1,Buenavista,0.006
+Trade,Betweenness,2,Molfetta,0.005
+Trade,Betweenness,3,Al Fayyum,0.003
+Trade,Betweenness,4,Aydın,0.002
+Trade,Betweenness,5,San Severo,0.002
+Trade,Closeness,1,El Arahal,0.253
+Trade,Closeness,2,Buenavista,0.174
+Trade,Closeness,3,Al Fayyum,0.14
+Trade,Closeness,4,Molfetta,0.11
+Trade,Closeness,5,Abū Ţisht,0.056
+Trade,Clustering,1,El Arahal,0.0
+Trade,Clustering,2,Imola,0.0
+Trade,Clustering,3,Seveso,0.0
+Trade,Clustering,4,Concepción,0.0
+Trade,Clustering,5,Monreale,0.0
+Trade,Community,1,Sant'Anastasia,13.0
+Trade,Community,2,Aydın,13.0
+Trade,Community,3,Arrecife,13.0
+Trade,Community,4,İznik,13.0
+Trade,Community,5,Segundo Ensanche,13.0
+Trade,Degree,1,Buenavista,0.081
+Trade,Degree,2,Molfetta,0.06
+Trade,Degree,3,El Arahal,0.054
+Trade,Degree,4,Bronte,0.04
+Trade,Degree,5,Giza,0.034
+Trade,Eigenvector,1,El Arahal,1.0
+Trade,Eigenvector,2,Al Fayyum,0.025
+Trade,Eigenvector,3,Abū Ţisht,0.006
+Trade,Eigenvector,4,Buenavista,0.001
+Trade,Eigenvector,5,Leioa,0.0
+Trade,In_Degree,1,Buenavista,0.074
+Trade,In_Degree,2,El Arahal,0.054
+Trade,In_Degree,3,Molfetta,0.054
+Trade,In_Degree,4,Bronte,0.034
+Trade,In_Degree,5,Giza,0.027
+Trade,Out_Degree,1,Sant'Anastasia,0.007
+Trade,Out_Degree,2,Imola,0.007
+Trade,Out_Degree,3,Seveso,0.007
+Trade,Out_Degree,4,Concepción,0.007
+Trade,Out_Degree,5,Monreale,0.007
+Trade,PageRank,1,El Arahal,0.152
+Trade,PageRank,2,Buenavista,0.088
+Trade,PageRank,3,Al Fayyum,0.081
+Trade,PageRank,4,Molfetta,0.048
+Trade,PageRank,5,Abū Ţisht,0.032
