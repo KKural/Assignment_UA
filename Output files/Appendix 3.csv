@@ -1,0 +1,117 @@
+﻿,Diplomatic,,Trade,,Combined,
+Metric,City,Value,City,Value,City,Value
+Degree,Buenavista,0.081,Buenavista,0.081,Buenavista,0.121
+,Molfetta,0.06,Molfetta,0.06,Molfetta,0.081
+,El Arahal,0.054,El Arahal,0.054,El Arahal,0.074
+,Bronte,0.04,Bronte,0.04,Monza,0.06
+,Giza,0.034,Giza,0.034,Giza,0.054
+In_Degree,Buenavista,0.074,Buenavista,0.074,Buenavista,0.107
+,El Arahal,0.054,El Arahal,0.054,El Arahal,0.074
+,Molfetta,0.054,Molfetta,0.054,Molfetta,0.074
+,Bronte,0.034,Bronte,0.034,Monza,0.047
+,Giza,0.027,Giza,0.027,Giza,0.047
+Out_Degree,Sant'Anastasia,0.007,Sant'Anastasia,0.007,Sant'Anastasia,0.013
+,Imola,0.007,Imola,0.007,Numancia,0.013
+,Seveso,0.007,Seveso,0.007,Lodi,0.013
+,Concepción,0.007,Concepción,0.007,Caserta,0.013
+,Monreale,0.007,Monreale,0.007,Sagunto,0.013
+Betweenness,Taşköprü,0.012,Buenavista,0.006,Lido di Ostia,0.031
+,Lido di Ostia,0.01,Molfetta,0.005,Taşköprü,0.03
+,Concepción,0.01,Al Fayyum,0.003,Concepción,0.028
+,Sharm el-Sheikh,0.009,Aydın,0.002,Aydın,0.027
+,Aydın,0.009,San Severo,0.002,Buenavista,0.023
+Closeness,Buenavista,0.126,El Arahal,0.253,El Arahal,0.287
+,Giza,0.107,Buenavista,0.174,Buenavista,0.225
+,Taşköprü,0.089,Al Fayyum,0.14,Giza,0.197
+,Agrigento,0.081,Molfetta,0.11,Al Fayyum,0.189
+,Lido di Ostia,0.078,Abū Ţisht,0.056,Agrigento,0.161
+Eigenvector,Agrigento,0.334,El Arahal,1,El Arahal,0.652
+,Buenavista,0.334,Al Fayyum,0.025,Buenavista,0.285
+,Giza,0.334,Abū Ţisht,0.006,Al Fayyum,0.26
+,San Severo,0.334,Buenavista,0.001,Giza,0.26
+,Concepción,0.254,Leioa,0,Villaquilambre,0.251
+PageRank,Buenavista,0.075,El Arahal,0.152,El Arahal,0.092
+,Giza,0.07,Buenavista,0.088,Buenavista,0.09
+,Agrigento,0.06,Al Fayyum,0.081,Giza,0.048
+,San Severo,0.057,Molfetta,0.048,San Severo,0.044
+,Taşköprü,0.051,Abū Ţisht,0.032,Al Fayyum,0.044
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+Betweenness,,,,,,
+Betweenness,,,,,,
+Betweenness,,,,,,
+Betweenness,,,,,,
+Betweenness,,,,,,
+Closeness,,,,,,
+Closeness,,,,,,
+Closeness,,,,,,
+Closeness,,,,,,
+Closeness,,,,,,
+Clustering,,,,,,
+Clustering,,,,,,
+Clustering,,,,,,
+Clustering,,,,,,
+Clustering,,,,,,
+Degree,,,,,,
+Degree,,,,,,
+Degree,,,,,,
+Degree,,,,,,
+Degree,,,,,,
+Eigenvector,,,,,,
+Eigenvector,,,,,,
+Eigenvector,,,,,,
+Eigenvector,,,,,,
+Eigenvector,,,,,,
+In_Degree,,,,,,
+In_Degree,,,,,,
+In_Degree,,,,,,
+In_Degree,,,,,,
+In_Degree,,,,,,
+Out_Degree,,,,,,
+Out_Degree,,,,,,
+Out_Degree,,,,,,
+Out_Degree,,,,,,
+Out_Degree,,,,,,
+PageRank,,,,,,
+PageRank,,,,,,
+PageRank,,,,,,
+PageRank,,,,,,
+PageRank,,,,,,
